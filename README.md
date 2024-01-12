@@ -7,4 +7,7 @@
 - There is also some filtering logic that allows User to select a particular company and only see that company's posts. 
 
  
-[CorpComment -- Give Feedback, Publicly.webm](https://github.com/vlj8008/Corp-Comment-App/assets/73119731/fb13b01b-b9b9-4885-9df3-2cffcbef09e4)
+
+
+https://github.com/vlj8008/Corp-Comment-App/assets/73119731/f9ac4db7-50f6-4cd0-a6f2-c5232f712141
+
